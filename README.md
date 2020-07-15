@@ -1,4 +1,14 @@
+# Software Project and Process Management
 
+[toc]
+
+## Body of Knowledge
+
+![BOK](BOK.png)
+
+<br/>
+
+## Table of Content
 
 1. General View
    1. Background
@@ -48,3 +58,45 @@
    2. Development Techniques
 8. Prototype
 9. References
+
+<br/>
+
+## Project Structure
+
+```python
+.
+├── BOK.png									# body of knowledge
+├── README.md
+├── doc											# document
+│   ├── Business Case.pdf
+│   ├── Project Charter.pdf
+│   └── Software Project and Process Management Course Project Design.pdf
+├── partition								# each parts
+│   ├── Business Case
+│   │   └── Business Case for the "Online Entity Game Store —— ICE" Project.md
+│   ├── General View
+│   │   ├── General View for the “Online Entity Game Store —— ICE” Project.md
+│   │   └── General View.md
+│   ├── Initiation and Scope Definition
+│   │   └── Initiation-and-Scope-Definition.md
+│   ├── Monitor & Control
+│   │   ├── Monitor_and_Control.md
+│   │   └── ...
+│   ├── Planning Management
+│   │   ├── Planning-Management.assets
+│   │   └── Planning-Management.md
+│   ├── Project Charter
+│   │   └── Project Charter.md
+│   ├── Resource Allocation
+│   │   ├── Resource-Allocation.md
+│   │   └── ...
+│   └── Risk Management
+│       ├── Risk-Management.md
+│       └── ...
+└── pre												# presentation
+    ├── presentation.pdf
+    └── script.pdf
+```
+
+## About the Author
+
