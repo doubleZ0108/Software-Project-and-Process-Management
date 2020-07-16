@@ -1,6 +1,9 @@
 ## Resource Allocation
 
-[toc]
+##### Table of Contents
+
+* [Identifying Resource Requirements](#identifying-resource-requirements)
+* [Scheduling Resources](#scheduling-resources)
 
 ------
 

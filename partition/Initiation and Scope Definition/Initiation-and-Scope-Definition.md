@@ -1,12 +1,21 @@
-## 2. Initation and Scope Definition
+# 2. Initation and Scope Definition
 
-[toc]
+##### Table of Contents
+
+* [2.1 Requirement Management](#21-requirement-management)
+   * [2.1.1 Determination and Negotiation](#211-determination-and-negotiation)
+   * [2.1.2 Review and Revision](#212-review-and-revision)
+* [2.2 Feasibility Analysis](#22-feasibility-analysis)
+   * [2.2.1 Functions](#221-functions)
+   * [2.2.2 Constraints](#222-constraints)
+   * [2.2.3 Features](#223-features)
+* [2.3 Scope](#23-scope)
 
 ------
 
-#### 2.1 Requirement Management
+## 2.1 Requirement Management
 
-##### 2.1.1 Determination and Negotiation
+### 2.1.1 Determination and Negotiation
 
 With the development of platforms such as Steam and GOG, today, digital games seem to have become the first choice for computer gamers. However, players of other gaming machines still tend to purchase physical games for collection or other purposes, and as more and more players purchase gaming machines, this market is still booming.
 
@@ -14,15 +23,15 @@ In such a large environment, we decided to create a sales platform specifically 
 
 Therefore, customers must go through the website to access the game store and manage the company. Users can access it via PC or mobile device. The system must allow the customer to search his or her favorite game in our system and add the game to the shopping cart or wish list. The system must provide a platform for publishers to add new games, manage game-related information, and easily manage orders.
 
-##### 2.1.2 Review and Revision
+### 2.1.2 Review and Revision
 
 Here are the revolution of our requirements.
 
 ![](Initiation-and-Scope-Definition.assets/reviceAndRevision.png)
 
-#### 2.2 Feasibility Analysis
+## 2.2 Feasibility Analysis
 
-##### 2.2.1 Functions
+### 2.2.1 Functions
 
 - Functions for users
   - The user logs in to ICE.
@@ -66,13 +75,13 @@ Here are the revolution of our requirements.
   - Is there any significant difference between entity games published by different publishers in terms of profitability?
   - Basic "Gamers Persona" for customers visit our website.
 
-##### 2.2.2 Constraints
+### 2.2.2 Constraints
 
 - Customers would pay by credit card, Alipay, or WeChat. All transactions should be secured.
 - Access to the system will be available through a web site via PC, mobile devices etc.
 - User (Customers) can discuss any games, but ICE only provides entity games from different game companies for gamers owning different gaming consoles.
 
-##### 2.2.3 Features
+### 2.2.3 Features
 
 1. Performance requirements:
    - In 95% of the cases, the response time in the general period does not exceed 1.5 seconds, and the peak period does not exceed 4 seconds.
@@ -94,9 +103,7 @@ Here are the revolution of our requirements.
    - After receiving the modification request, the ordinary modification should be completed within 1 to 2 days; for the evaluation of the major demand or design modification should be completed within 1 week.
    - 90% of the bugs were modified within 1 working day, and others within 2 working days.
 
-#### 2.3 Scope
-
-
+## 2.3 Scope
 
 ICE's strategic goals include continuous growth and profitability, as well as increasing awareness and building a platform atmosphere. This project is based on the entity game market. It hopes to attract users' favor with comprehensive and exquisite games, and optimize the work of managers with concise and refined operation methods. It will improve customer performance with excellent early warning and feedback, and gradually create a user online purchase entity games is the preferred platform and provides long-term and stable services for our buyers and partners. In order to achieve this goal, it is necessary to ensure sufficient game sources, and a certain amount of overhead is allowed in the early stage to increase the popularity of the platform and the complete game purchase experience.
 

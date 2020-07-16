@@ -1,6 +1,14 @@
 # Monitor & Control
 
-[toc]
+##### Table of Contents
+
+* [6.1 Project control framework](#61-project-control-framework)
+* [6.2 Data Collection](#62-data-collection)
+* [6.3 Progress Visualization](#63-progress-visualization)
+* [6.4 Cost Monitoring](#64-cost-monitoring)
+* [6.5 Earned Value Analysis](#65-earned-value-analysis)
+* [6.6 Proprotizing Monitoring](#66-proprotizing-monitoring)
+* [6.7 Change Control](#67-change-control)
 
 ------
 

@@ -1,10 +1,19 @@
-## 3. Planning Management
+# 3. Planning Management
 
-[toc]
+##### Table of Contents
+
+* [3.1 Planning Activities](#31-planning-activities)
+* [3.2 Project Organization](#32-project-organization)
+   * [3.2.1 Team Structure](#321-team-structure)
+   * [3.2.2 Roles, Responsibilities and Authority](#322-roles-responsibilities-and-authority)
+   * [3.2.3 Communication Style](#323-communication-style)
+* [3.3 Software Project Planning](#33-software-project-planning)
+   * [3.3.1 WBS](#331-wbs)
+   * [3.3.2 Network Plan &amp; Critical Path](#332-network-plan--critical-path)
 
 ------
 
-#### 3.1 Planning Activities
+## 3.1 Planning Activities
 
 | Step                                                         | Activity                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -21,15 +30,15 @@
 
 
 
-#### 3.2 Project Organization 
+## 3.2 Project Organization 
 
-##### 3.2.1 Team Structure
+### 3.2.1 Team Structure
 
 There is the organization of our development team. Each manager is responsible for his or her department, report their work and progress to the project manager. The project manager will charge the whole our and make sure the project is under control. The product manager will join in the development process to guarantee that the project meets the requirements and take charge of the later popularizing of the bookstore website.
 
 ![](/Users/sTern/Downloads/EE_Study/3.5/软件项目过程与管理/project/ourP/structureTeam.png)
 
-##### 3.2.2 Roles, Responsibilities and Authority
+### 3.2.2 Roles, Responsibilities and Authority
 
 Every one in our team has a specific responsibility, and the following table shows each of the member’s respective responsibility:
 
@@ -50,7 +59,7 @@ Every one in our team has a specific responsibility, and the following table sho
 | Software Quality Assurance | Lucia                       | Responsible for supervising the process planning and implementation of the project, checking the products produced by the project, and checking the conformity of the project development process |
 | Database Administrator     | Liv                         | Responsible for designing and constructing database system and optimizing database perfo |
 
-##### 3.2.3 Communication Style
+### 3.2.3 Communication Style
 
 Communicate in the team through the following collaborative communication methods:
 
@@ -59,9 +68,9 @@ Communicate in the team through the following collaborative communication method
 3. Informal, person-to-person communication, such as group meetings to exchange information and solve problems;
 4. E-mail, mainly to communicate with people outside the project such as instructors and certain technical personnel
 
-#### 3.3 Software Project Planning
+## 3.3 Software Project Planning
 
-##### 3.3.1 WBS
+### 3.3.1 WBS
 
 According to the software engineering methodology, we divide the overall system development into six main processes: requirements analysis, outline design, detailed design, coding, testing, and deployment, and then decompose the six major processes respectively.
 
@@ -79,7 +88,7 @@ Finally, we configure the server environment for the deployment phase, project d
 
 ![](Planning-Management.assets/WBS.png)
 
-##### 3.3.2 Network Plan & Critical Path
+### 3.3.2 Network Plan & Critical Path
 
 The project uses an activity-based approach to identify activities, divides the project into the main life cycle stages, considers the activities of each stage and its activity cycle separately, and analyzes the pre-activities of individual activities to obtain the following activity list :
 

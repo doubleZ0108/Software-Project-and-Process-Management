@@ -1,6 +1,16 @@
 # General View for the “Online Entity Game Store —— ICE” Project
 
-[toc]
+##### Table of Contents
+
+* [Background](#background)
+* [Vision](#vision)
+* [Requirements](#requirements)
+* [Functions](#functions)
+   * [Functions for users](#functions-for-users)
+   * [Functions for publishers](#functions-for-publishers)
+   * [Functions for administrators](#functions-for-administrators)
+   * [Functions for analysts](#functions-for-analysts)
+* [Constraints](#constraints)
 
 ------
 * **Serial Number**: 42036401_SEME_20200315
@@ -11,7 +21,7 @@
 
 
 
-# Background
+## Background
 
 With the development of platform like steam and GOG, digital games seem to be the very first choice for computer gamers nowadays. However, gamers of other gaming console still tend to buy entity games for purpose of collecting or others, and this market is still booming with more and more gamers buying game consoles. However, there doesn’t exist a comprehensive platform for players to buy entity games of different consoles from different video game companies. So here comes ICE!
 
@@ -19,7 +29,7 @@ ICE is an online store selling entity games from different game companies for ga
 
 
 
-# Vision
+## Vision
 
 A new business of an e-commerce company will be initiated: a virtual gamestore. The system to support it must manage the acquisition and selling processes of the company. 
 
@@ -29,7 +39,7 @@ As is demonstrated above, there is an vacancy of a comprehensive entity game mar
 
 
 
-# Requirements
+## Requirements
 
 Access of the gamestore for customers and management of the company must be accomplished through a Web site. The user can access it via PC or mobile device.
 
@@ -41,9 +51,9 @@ The system must allow a manager to generate reports on bestselling games, and on
 
 
 
-# Functions
+## Functions
 
-## Functions for users
+### Functions for users
 1. The user logs in to ICE.
 2. The user searches for games in ICE.
 3. The user views game categories in ICE.
@@ -59,7 +69,7 @@ The system must allow a manager to generate reports on bestselling games, and on
 13. The user modifies personal information in ICE.
 14. The user adds delivery address in ICE.
 15. The user rates the order in ICE.
-## Functions for publishers
+### Functions for publishers
 1. The publisher logs in to ICE.
 2. The publisher views personal information in ICE.
 3. The publisher modifies personal information in ICE.
@@ -70,7 +80,7 @@ The system must allow a manager to generate reports on bestselling games, and on
 8. The publisher views order in ICE.
 9. The publisher modifies the order information in ICE.
 10. The publisher delivery the game product in ICE.
-## Functions for administrators
+### Functions for administrators
 1. The administrator logs in to ICE.
 2. The administrator exits from ICE.
 3. The administrator makes announcement in ICE.
@@ -78,7 +88,7 @@ The system must allow a manager to generate reports on bestselling games, and on
 5. The administrator checks users' comments in ICE.
 6. The administrator handles with report informations in ICE.
 7. The administrator makes recommend information in ICE.
-## Functions for analysts
+### Functions for analysts
 1. Which entity games are better sold in the second quarter than the first quarter?
 2. Which categories of entity games are the most profitable ones?
 3. What is the average time between the order placed and shipped?
@@ -87,7 +97,7 @@ The system must allow a manager to generate reports on bestselling games, and on
 
 
 
-# Constraints
+## Constraints
 
 1. Customers would pay by credit card, Alipay, or WeChat. All transactions should be secured.
 2. Access to the system will be available through a web site via PC, mobile devices etc.

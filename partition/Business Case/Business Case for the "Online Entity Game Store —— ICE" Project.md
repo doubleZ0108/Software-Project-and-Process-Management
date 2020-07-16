@@ -1,6 +1,21 @@
 # Business Case for the “Online Entity Game Store —— ICE” Project
 
-[toc]
+##### Table of Contents
+
+* [1. Introduction / Background](#1-introduction--background)
+* [2. Business Objective](#2-business-objective)
+* [3. Current Situation and Problem/Opportunity Statement](#3-current-situation-and-problemopportunity-statement)
+* [4. Critical Assumption and Constraints](#4-critical-assumption-and-constraints)
+* [5. Analysis of Options and Recommendation](#5-analysis-of-options-and-recommendation)
+* [6. Preliminary Project Requirements](#6-preliminary-project-requirements)
+* [7. Schedule Estimate](#7-schedule-estimate)
+* [8. Potential Risks](#8-potential-risks)
+   * [8.1 Requirement Risks](#81-requirement-risks)
+   * [8.2 Security Risks](#82-security-risks)
+   * [8.3 Cost Risks](#83-cost-risks)
+   * [8.4 Team Risks](#84-team-risks)
+   * [8.5 Schedule Risks](#85-schedule-risks)
+   * [8.6 Market Risks](#86-market-risks)
 
 ------
 
