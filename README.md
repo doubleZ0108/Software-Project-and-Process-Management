@@ -1,6 +1,14 @@
 # Software Project and Process Management
 
-[toc]
+##### Table of Contents
+
+   * [Software Project and Process Management](#software-project-and-process-management)
+      * [Body of Knowledge](#body-of-knowledge)
+      * [Project Structure](#project-structure)
+      * [Partitions](#partitions)
+      * [About the Author](#about-the-author)
+
+------
 
 ## Body of Knowledge
 
